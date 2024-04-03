@@ -1,0 +1,1 @@
+const notimailDomain = 'pushnoti.com';
