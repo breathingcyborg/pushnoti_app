@@ -2,6 +2,10 @@
 
 App to send notifications without building your own app. Android only.
 
+## Api Repo
+[Api Repo](https://github.com/breathingcyborg/pushnoti_api)
+
+
 ## Screenshots
 
 |          |          |          |
