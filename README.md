@@ -11,7 +11,7 @@ App to send notifications without building your own app. Android only.
 |          |          |          |
 |----------|----------|----------|
 | ![Login](screenshots/login.png) | ![Pick Notimail](screenshots/pick_notimail.png) | ![Share Notimail](screenshots/share_notimail.png) |
-| ![Apps](screenshots/apps_list.png) | ![App Detail](screenshots/app_detail.png) | ![Notifications](screenshots/notifications.png) ) |
+| ![Apps](screenshots/apps_list.png) | ![App Detail](screenshots/app_detail.png) | ![Notifications](screenshots/notifications.png) |
 |![Alert with image](screenshots/alert_with_image.png) | ![Urgent Alert](screenshots/urgent_alert.png) | |
 
 ## How to send notification?
